@@ -1,0 +1,6 @@
+@import './mixins';
+@import './variables';
+
+$primary: indigo;
+
+@import "bootstrap/scss/bootstrap.scss";
