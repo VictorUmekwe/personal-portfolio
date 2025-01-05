@@ -39,7 +39,7 @@ const About = () => {
               and javascript. I also have a good understanding of backend
               technologies like nodejs, expressjs and mongodb. I'm always
               looking to learn and improve my skills, so if you have any
-              projects or ideas, do not hesitate to reach out to me. I'm
+              project or idea, do not hesitate to reach out to me. I'm
               looking forward to collaborating with you on your next project.
             </p>
             <ViewWorkBtn />
