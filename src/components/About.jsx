@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const About = () => {
   return (
     <div
-      className=" bg-dark text-light p-5 min-vh-100 d-flex justify-content-center align-items-center"
+      className=" bg-dark text-light p-md-5 p-sm-2 min-vh-100 d-flex justify-content-center align-items-center"
       id="about"
     >
       <div className=" container">
@@ -28,7 +28,7 @@ const About = () => {
             transition={{ duration: 0.5 }}
             className=" col-md-6 d-flex flex-column justify-content-center align-items-center"
           >
-            <h2 className=" mb-5 display-1">About Me</h2>
+            <h2 className=" mb-5 display-1 mt-5 mt-md-0">About Me</h2>
             <p className=" text-start mb-5">
               Hi there, i am Umekwe Chigozie Victor a fullstack web developer
               with a passion for creating and managing websites and webapps, and

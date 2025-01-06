@@ -3,12 +3,12 @@ import {motion} from 'framer-motion'
 
 const Contact = () => {
   return (
-    <div  className=" bg-dark text-light p-5 d-flex justify-content-center align-items-center min-vh-100" id="contact">
+    <div  className=" bg-dark text-light p-md-5 p-sm-2 d-flex justify-content-center align-items-center min-vh-100" id="contact">
       <div className=" container">
         <div className=" row">
           <motion.div whileInView={{opacity: 1, x: 0}} initial={{opacity: 0, x: -100}} transition={{duration: 0.5}}className=" col-md-6 d-flex flex-column  align-items-center">
             <div>
-              <h2 className=" mb-5 display-2">Contact</h2>
+              <h2 className=" mb-5 display-2 mt-5 mt-md-0">Contact</h2>
             </div>
             <p>drealchigozie@yahoo.com</p>
             <p>08075367453</p>
