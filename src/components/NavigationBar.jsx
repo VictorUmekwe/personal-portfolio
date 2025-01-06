@@ -4,7 +4,7 @@ import {Nav, Container, Navbar, } from 'react-bootstrap';
 // Remember to animate the website 
 const NavigationBar = () => {
   return (
-    <Navbar expand='lg' className=' bg-primary w-100 fixed-top z-1' data-bs-theme='dark'>
+    <Navbar expand='lg' className=' bg-primary fixed-top z-1' data-bs-theme='dark'>
       <Container >
           <Navbar.Brand href='#home' className='fs-4 fw-bold' >
             Victor <span className=' text-dark'>U</span>
