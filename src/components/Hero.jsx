@@ -11,7 +11,7 @@ const container = (delay) => ({
 const Hero = () => {
   return (
     <section
-      className=" pt-5 min-vh-100 d-flex justify-content-center align-items-center"
+      className=" p-5 min-vh-100 d-flex justify-content-center align-items-center"
       id="hero"
     >
       <div className=" container py-md-5">

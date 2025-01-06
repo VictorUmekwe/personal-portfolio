@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const About = () => {
   return (
     <div
-      className=" bg-dark text-light py-5 min-vh-100 d-flex justify-content-center align-items-center"
+      className=" bg-dark text-light p-5 min-vh-100 d-flex justify-content-center align-items-center"
       id="about"
     >
       <div className=" container">
