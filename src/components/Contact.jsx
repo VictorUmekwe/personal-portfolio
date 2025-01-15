@@ -11,8 +11,7 @@ const Contact = () => {
               <h2 className=" mb-5 display-2 mt-5 mt-md-0">Contact</h2>
             </div>
             <p>drealchigozie@yahoo.com</p>
-            <p>08075367453</p>
-            <p>Lagos, Nigeria.</p>
+          
             <hr className=" w-50 mx-auto" />
             <ul className=" d-flex list-unstyled justify-content-center gap-4">
               <li>

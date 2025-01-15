@@ -5,6 +5,7 @@ import Hero from './components/Hero'
 import Projects from './components/Projects'
 import Footer from './components/Footer'
 import Contact from './components/Contact'
+import Technologies from './components/Technologies'
 
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
     <NavigationBar/>
     <Hero/>
     <About/>
+    <Technologies/>
     <Projects/>
     <Contact/>
     <Footer/>

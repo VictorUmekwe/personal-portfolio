@@ -17,7 +17,9 @@ const About = () => {
             className=" col-md-6 mt-5 mt-md-0 d-flex flex-column justify-content-center align-items-center"
           >
             <img
-              className=" img-fluid  shadow rounded "width={500} height={500}
+              className=" img-fluid  shadow rounded mb-5 mb-md-0"
+              width={500}
+              height={500}
               src={AboutImg}
               alt="about img"
             />
@@ -33,14 +35,14 @@ const About = () => {
               Hi there, i am Umekwe Chigozie Victor a fullstack web developer
               with a passion for creating and managing websites and webapps, and
               i also love all things tech. When i'm not writing codes, i'm
-              probably reading up on the latest development trends or practicing
-              my sketching. I have been able to hone my skills in frontend
-              technologies like reaactjs, bootstrap, vanilla css, html
-              and javascript. I also have a good understanding of backend
-              technologies like nodejs, expressjs and mongodb. I'm always
-              looking to learn and improve my skills, so if you have any
-              project or idea, do not hesitate to reach out to me. I'm
-              looking forward to collaborating with you on your next project.
+              researching on soft skills to better improve my skill set.
+              I have been able to hone my skills in frontend technologies like
+              reaactjs, bootstrap, vanilla css, html and javascript. I also have
+              a good understanding of backend technologies like nodejs,
+              expressjs and mongodb. I'm always looking to learn and improve my
+              skills, so if you have any project or idea, do not hesitate to
+              reach out to me. I'm looking forward to collaborating with you on
+              your next project.
             </p>
             <ViewWorkBtn />
           </motion.div>
